@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Botti;Federico;;;
+FN:Federico Botti
+ORG:VM Partners
+TITLE:Consulente del Lavoro
+TEL;TYPE=WORK,CELL:+393333741103
+EMAIL;TYPE=WORK:fbotti@vmpartners.it
+ADR;TYPE=WORK:;;Via Cesare Battisti 1;Trieste;TS;34125;Italia
+END:VCARD
